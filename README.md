@@ -3,7 +3,7 @@
   <img src="assets/matrix-rain.gif" alt="Ceejay.exe — Matrix-style animated developer banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Cedric Jeremy 👋</h1>
+<h1 align="center">Yoh MotherFucker, ssup 😈🤘 👋</h1>
 
 <p align="center">
   <code>SOFTWARE • AI & DATA • CONTINUOUS LEARNING</code><br>
@@ -17,6 +17,7 @@
 ---
 
 ### `whoami`
+BITCH😛
 
 I'm a technology enthusiast developing my skills in software engineering, AI, and data workflows. I enjoy learning how systems work, solving practical problems, and building projects that turn ideas into useful tools.
 
