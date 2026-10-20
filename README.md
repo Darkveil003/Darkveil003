@@ -1,10 +1,5 @@
-[README.md](https://github.com/user-attachments/files/33708425/README.md)
-
-
-<!--
-**Darkveil003/Darkveil003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<p align="center">
+[README.md](https://github.com/user-attachments/files/33708687/README.md)
+<p align="center">
   <img src="assets/matrix-rain.gif" alt="Ceejay.exe — Matrix-style animated developer banner" width="100%">
 </p>
 
@@ -65,14 +60,3 @@ Check my repositories for projects and experiments. I'll keep this section updat
 <p align="center">
   <code>ACCESS GRANTED • KEEP LEARNING • KEEP BUILDING</code>
 </p>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
